@@ -11,12 +11,12 @@ To build a movie trailer website where users can see your favorite movies and wa
 Requirements
 ------------
 
-1. [Python](https://www.python.org/downloads/) is installed.
-2. This can be verified by running the following command in the terminal:
+* [Python](https://www.python.org/downloads/) is installed.
+* This can be verified by running the following command in the terminal:
 ```ruby
     $ python -V
 ```
-3. Alternatively, if you are running Python version 3.X use the following command instead:
+* Alternatively, if you are running Python version 3.X use the following command instead:
 ```ruby
     $ python3 -V
 ```
