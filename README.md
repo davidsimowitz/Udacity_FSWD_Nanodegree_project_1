@@ -11,14 +11,14 @@ To build a movie trailer website where users can see your favorite movies and wa
 Requirements
 ------------
 
-0. [Python](https://www.python.org/downloads/) is installed.h
-0. This can be verified by running the following command in the terminal:
+1. [Python](https://www.python.org/downloads/) is installed.
+2. This can be verified by running the following command in the terminal:
 ```ruby
-$ python -V
+    $ python -V
 ```
-0. Alternatively, if you are running Python version 3.X use the following command instead:
+3. Alternatively, if you are running Python version 3.X use the following command instead:
 ```ruby
-$ python3 -V
+    $ python3 -V
 ```
 
 Usage
@@ -39,11 +39,9 @@ Customized Movies (optional)
 
 Input is accepted from a file named movie_details.txt that resides in the project directory. This file can be modified to display the movies of your choosing. The format for movie_details.txt is as follows:
 
-```ruby
 0. The first line must contain the number of movies.
 0. Then for each movie, you must enter three pieces of information, each on their own line:
     * first its title
     * followed next by a url to its movie poster image
     * followed lastly by a link to its trailer on YouTube
 0. A movie_details.txt file has been included.
-```
