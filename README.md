@@ -13,8 +13,8 @@ Requirements
 
 + [Python](https://www.python.org/downloads/) is installed.
 + This can be verified by running the following command in the terminal:
-```python
-    $ python -V
+```bash
+$ python -V
 ```
 + [Git](https://git-scm.com/downloads) is installed.
   (Optional, if you wish to clone the project repository.)
