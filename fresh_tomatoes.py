@@ -1,3 +1,8 @@
+# This file is used with permission for Udacity's Full Stack Web
+# Developer Nanodegree - P1: Movie Trailer Website. Only slight
+# modifications were performed after downloading from Adarsh Nair's
+# GitHub repository at https://github.com/adarsh0806/ud036_StarterCode
+
 import webbrowser
 import os
 import re
