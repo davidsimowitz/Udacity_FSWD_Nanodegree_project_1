@@ -11,15 +11,13 @@ To build a movie trailer website where users can see your favorite movies and wa
 Requirements
 ------------
 
-* [Python](https://www.python.org/downloads/) is installed.
-* This can be verified by running the following command in the terminal:
-```ruby
++ [Python](https://www.python.org/downloads/) is installed.
++ This can be verified by running the following command in the terminal:
+```python
     $ python -V
 ```
-* Alternatively, if you are running Python version 3.X use the following command instead:
-```ruby
-    $ python3 -V
-```
++ [Git](https://git-scm.com/downloads) is installed.
+  (Optional, if you wish to clone the project repository.)
 
 Usage
 -----
@@ -27,21 +25,33 @@ Usage
 * Run the following commands to build the fresh_tomatoes.html file.
 * The html page will be loaded automatically in your default browser.
 
-```ruby
+```bash
 $ git clone https://github.com/davidsimowitz/Udacity_FSWD_Nanodegree_project_1.git
-$ cd Udacity_FSWD_Nanodegree_project_1
-$ python3 entertainment_center.py
-  (fresh_tomatoes.html will load in your default browser once the above command is ran)
 ```
+  + Above command is optional.
+  + Alternatively you may download the files into the directory.
+```bash
+$ cd Udacity_FSWD_Nanodegree_project_1
+```
+  + Verify the following files are present before continuing:
+    * media.py
+    * fresh_tomatoes.py
+    * entertainment_center.py
+    * movie_details.txt
+
+```bash
+$ python entertainment_center.py
+```
+  + fresh_tomatoes.html will load in your default browser once the above command is ran.
 
 Customized Movies (optional)
 ----------------------------
 
 Input is accepted from a file named movie_details.txt that resides in the project directory. This file can be modified to display the movies of your choosing. The format for movie_details.txt is as follows:
 
-0. The first line must contain the number of movies.
-0. Then for each movie, you must enter three pieces of information, each on their own line:
+1. The first line must contain the number of movies.
+2. Then for each movie, you must enter three pieces of information, each on their own line:
     * first its title
     * followed next by a url to its movie poster image
     * followed lastly by a link to its trailer on YouTube
-0. A movie_details.txt file has been included.
+3. A movie_details.txt file has been included.
