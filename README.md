@@ -1,4 +1,4 @@
-Udacity FSWD Nanodegree project 1
+Movie Trailer Website
 =================================
 
 Udacity - Full Stack Web Developer Nanodegree
@@ -26,12 +26,12 @@ Usage
 * The html page will be loaded automatically in your default browser.
 
 ```bash
-$ git clone https://github.com/davidsimowitz/Udacity_FSWD_Nanodegree_project_1.git
+$ git clone https://github.com/davidsimowitz/fullstack-nanodegree-project-1.git
 ```
   + Above command is optional.
   + Alternatively you may download the files into the directory.
 ```bash
-$ cd Udacity_FSWD_Nanodegree_project_1
+$ cd fullstack-nanodegree-project-1
 ```
   + Verify the following files are present before continuing:
     * media.py
