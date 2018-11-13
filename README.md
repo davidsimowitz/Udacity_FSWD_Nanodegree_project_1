@@ -1,6 +1,7 @@
 Movie Trailer Website
 =================================
 
+
 Udacity - Full Stack Web Developer Nanodegree
 ---------------------------------------------
 P1: Movie Trailer Website
@@ -18,6 +19,7 @@ $ python -V
 ```
 + [Git](https://git-scm.com/downloads) is installed.
   (Optional, if you wish to clone the project repository.)
+
 
 Usage
 -----
@@ -43,6 +45,7 @@ $ cd fullstack-nanodegree-project-1
 $ python entertainment_center.py
 ```
   + fresh_tomatoes.html will load in your default browser once the above command is ran.
+
 
 Customized Movies (optional)
 ----------------------------
