@@ -6,7 +6,7 @@ Udacity - Full Stack Web Developer Nanodegree
 ---------------------------------------------
 P1: Movie Trailer Website
 
-This project's objective is to design and build the server-side code necessary to dynamically generate a movie trailer website—where users can view your favorite movies and watch their trailers—from a Python data structure. The list of movies—each including a title, poster, and trailer—is parsed from a text file allowing the static web page to be updated easily after editing the movie list.
+This project's objective was to design and build the server-side code necessary to dynamically generate a movie trailer website—where users can view your favorite movies and watch their trailers—from a Python data structure. The list of movies—each including a title, poster, and trailer—is parsed from a text file allowing the static web page to be updated easily after editing the movie list.
 
 
 Requirements
